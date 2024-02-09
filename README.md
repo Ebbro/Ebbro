@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+Linkedin: https://www.linkedin.com/in/edoardo-tagliati/
+
+
 <!--
 **Ebbro/Ebbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
