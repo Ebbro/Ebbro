@@ -2,7 +2,7 @@
 
 
 
-Linkedin: https://www.linkedin.com/in/edoardo-tagliati/
+[Linkedin](https://www.linkedin.com/in/edoardo-tagliati/)
 
 
 <!--
