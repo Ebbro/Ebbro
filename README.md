@@ -1,6 +1,8 @@
+Student of Game Design at TheSign Acdemy, Florence, Italy.
+
+Currently working on a couple of small personal projects and some other projects from the Academy
 
 
-I am currently working on a personal minimalist puzzle game and an inside project within the TheSign Academy
 
 
 ## Reach me at
