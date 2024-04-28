@@ -1,6 +1,7 @@
 Student of Game Design at TheSign Acdemy, Florence, Italy.
 
-Currently working on a couple of small personal projects and some other projects from the Academy
+Currently working on the remake on UE5 of Marathon as a personal project without end date.
+Team Leader of a project within the Academy
 
 
 
