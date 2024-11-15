@@ -1,7 +1,10 @@
 Student of Game Design at TheSign Acdemy, Florence, Italy.
+Woking with Concept Artist, Programmers and 3D Artists
 
-Currently working on the remake on UE5 of Marathon as a personal project without end date.
-Team Leader of a project within the Academy
+Currently working on a few personal projects without end date to learn stuff:
+- Remake of the original Marathon Trilogy by Bungie in Unreal Engine 5
+- A setup to Roleplay within Unreal Engine
+
 
 
 
